@@ -1,1 +1,1 @@
-# school-ai
+# PRO-C130-Student-Boilerplate
